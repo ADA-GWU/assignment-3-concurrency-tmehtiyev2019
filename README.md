@@ -52,7 +52,7 @@ There are 3 parts of the program:
 - `Processing.java`
 
 
-# Description of Main Class
+## Description of Main Class
 Main class takes the arguments from the command line and uses the following methods:
 
 - `convert_image()`
