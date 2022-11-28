@@ -7,9 +7,9 @@
 The main objective in this assignment is to convert grayscale to color using multi-threaded and single-threaded  programming.
 
 The output application is supposed to take three arguments from the command line:
-**filename (directory of the file)**
-**square size**
-**the processing mode**
+- **filename (directory of the file)**
+- **square size**
+- **the processing mode**
 
 Example command: `program inputfile.jpg 15 M`
 
